@@ -1,0 +1,10 @@
+body{
+	background:#000 url("background.jpg")  no-repeat;	
+}
+p{
+	font-family:Geneva;
+	font-size:200%;
+	letter-spacing:-1px;
+background:#aaa;
+	
+}
