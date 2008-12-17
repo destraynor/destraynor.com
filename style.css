@@ -5,6 +5,15 @@ p{
 	font-family:Geneva;
 	font-size:200%;
 	letter-spacing:-1px;
-background:#aaa;
-	
+	background:#fff;
+	padding:10px;
+}
+#container{
+	background:#000;
+	opacity:.5;
+	position:absolute;
+	top:170px;
+	left:10px;
+	width:400px;
+	-moz-border-radius:25px;
 }
