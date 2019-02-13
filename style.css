@@ -42,19 +42,17 @@ img.alignleft { float: left; }
 
 img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: auto; }
 
-body { background-color: #F8F8F8; }
+body { background-color: #F8F8F8; line-height:1.2em; }
 
-.temp { width: 640px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px; line-height: 42px; }
+p{ margin-below: 1em;}
 
-@media (max-width: 800px) { .temp { margin: 40px auto 20px auto; font-size: 24px; line-height: 28px; } }
+.temp { width: 640px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px;}
 
 .temp .intro { display: block; margin-bottom: 40px; color: #666; }
 
 .temp .intro a { font-weight: 700; font-style: italic; color: #333; text-decoration: none; border-bottom: 1px dotted #333; }
 
-.temp .instructions { font-family: "Helvetica Neue", Arial, Sans-Serif; font-weight: 300; font-size: 24px; line-height: 28px; color: #999; }
-
-@media (max-width: 800px) { .temp .instructions { font-size: 18px; line-height: 22px; } }
+.temp .instructions { font-family: "Helvetica Neue", Arial, Sans-Serif; font-weight: 300; font-size: 24px; color: #999; }
 
 .temp .instructions ul { margin: 0; padding: 30px 0 0 0; margin: 0 0 20px 5px; }
 
