@@ -24,7 +24,10 @@ img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: 
 
 body { background-color: #F8F8F8; line-height:1.2em; }
 
-p{ margin-bottom:1em;}
+p{  margin-bottom: 1em;
+    line-height: 1.2em;
+    color: #444;
+    font-size: 20px;}
 
 .temp { width: 640px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px;}
 
