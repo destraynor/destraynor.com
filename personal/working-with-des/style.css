@@ -1,12 +1,12 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700i");
+@import url('https://fonts.googleapis.com/css?family=Neuton:200,400');
 html { color: #000; }
-body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td { margin: 0; padding: 0; }
+
 table { border-collapse: collapse; border-spacing: 0; }
 fieldset, img { border: 0; }
 address, caption, cite, code, dfn, em, strong, th, var, optgroup { font-style: inherit; font-weight: inherit; }
 del, ins { text-decoration: none; }
-li { list-style: none; }
+
 caption, th { text-align: left; }
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
 q:before, q:after { content: ''; }
@@ -22,9 +22,39 @@ img.alignright { float: right; }
 img.alignleft { float: left; }
 img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: auto; }
 
-body { background-color: #F8F8F8; line-height:1.2em; }
+body {  
 
-p{  margin-bottom: 1em;
     line-height: 1.2em;
-    color: #444;
-    font-size: 20px;}
+    width: 80%;
+    max-width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:15%;
+    background: #111;
+    color: #cdd;
+    font-family: 'Neuton', serif;
+    font-size:1.4em;
+}
+h1{
+	font-size:72px;
+	font-weight:200;
+	padding-bottom:32px;
+	line-height: 1em;
+	color:#fff;
+
+}
+h2{
+	font-size:48px;
+	font-weight:200;
+	padding-bottom:32px;
+	line-height: 1em;
+
+}
+p{  
+	margin-top: 1em;
+	margin-bottom: 1em;
+    line-height: 1.2em;
+    
+
+}
+
