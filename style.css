@@ -22,18 +22,24 @@ img.alignright { float: right; }
 img.alignleft { float: left; }
 img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: auto; }
 
-body {    
-	background-color: #F8F8F8;
+body {
+		background-color: #F8F8F8;
     line-height: 1.2em;
     width: 80%;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+	}
 
-p{  margin-bottom: 1em;
+p{
+		margin-bottom: 1em;
     line-height: 1.2em;
     color: #444;
-    font-size: 20px;}
+    font-size: 20px;
+	}
 
+h1{
+	margin-bottom:1em;
+}
 .temp { width: 640px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px;}
 
 .temp .intro { display: block; margin-bottom: 40px; color: #666; }
