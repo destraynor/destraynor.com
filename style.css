@@ -37,7 +37,7 @@ p{
     font-size: 20px;
 	}
 
-h1{
+h1,h2{
 	margin-bottom:1em;
 }
 .temp { width: 640px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px;}
